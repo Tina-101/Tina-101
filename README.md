@@ -1,4 +1,5 @@
-### Olá! Sou a Tina!!
+### Hii! I'm Tina!!
+ I’m currently focused on learning front-end development
 
 <div align="center">
   <a href="https://github.com/Tina-101">
