@@ -1,4 +1,6 @@
-### Hii! I'm Tina!!
+### Hi, I'm Tina!! ^^
+✿‧̥°̩̥˚̩̩̥͙°̩̥‧̥·̊‧̥°̩̥‧̥·̊✿°̩̥‧̥‧̥ ‧̥˚̩̩̥͙·‧̥·̊‧̥✿‧̥°̩̥˚̩̩̥͙°̩̥‧̥·̊˚̩̩̥͙°̩̥‧̥✿·̊·̊‧̥··̊‧̥°̩̥✿˚̩̩̥͙·
+
  I’m currently focused on learning front-end development
 
 <div align="center">
