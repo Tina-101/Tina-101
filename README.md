@@ -1,7 +1,7 @@
 ### Hi, I'm Tina!! ^^
  ✿ ‧̥   °̩̥   ˚̩̩̥͙   °̩̥   ‧̥   ·̊  ‧̥  °̩̥   ‧̥   ·̊   ✿   °̩̥   ‧̥   ‧̥  ‧̥   ˚̩̩̥͙   ·  ‧̥   ·̊   ‧̥   ✿   ‧̥ °̩̥   ˚̩̩̥͙   °̩̥   ‧̥  ·̊   ˚̩̩̥͙  °̩̥   ‧̥   ✿   ·̊   ·̊   ‧̥   · ·̊   ‧̥ °̩̥   ✿   ˚̩̩̥͙   ·
 
- I’m currently focused on learning front-end development
+currently learning front-end development
 
 <div align="center", style="display: inline_block>
   <a href="https://github.com/Tina-101">
