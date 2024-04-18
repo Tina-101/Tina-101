@@ -20,7 +20,8 @@ currently learning front-end development
   <img align="center" alt="Tina-python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tina-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Tina-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="right" alt="tina-gif" height="110" width="110" src="https://media.discordapp.net/attachments/1195216120534282351/1199773990940590090/eu.gif?ex=65c3c39a&is=65b14e9a&hm=b37c7bb49e19022a9757364a5917474f8b958b1ff2e36ef4ba987878c85f8535&=&width=468&height=468">
+  <img align="right" alt="tina-gif" height="130" width="130" src="https://github.com/Tina-101/Tina-101/assets/95090870/f474cabb-1f2f-49d2-aa2b-03087e4f4331">
+
 </div>
 
 ##
