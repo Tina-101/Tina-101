@@ -27,8 +27,8 @@ currently learning front-end development
 ##
 
 latest project: https://movie-picker-jet.vercel.app/
-#
 
+#
 
 <div> 
  
