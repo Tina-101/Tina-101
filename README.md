@@ -31,6 +31,7 @@ latest project: https://movie-picker-jet.vercel.app/
 
 
 <div> 
+ 
   <a href = "mailto:cristinaleandro101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  <!-- ![Snake animation](https://github.com/Tina-101/Tina-101/blob/output/github-contribution-grid-snake.svg) -->
