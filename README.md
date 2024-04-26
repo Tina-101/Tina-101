@@ -1,6 +1,6 @@
 ### Hi, I'm Tina!! ^^
  ✿ ‧̥   °̩̥   ˚̩̩̥͙   °̩̥   ‧̥   ·̊  ‧̥  °̩̥   ‧̥   ·̊   ✿   °̩̥   ‧̥   ‧̥  ‧̥   ˚̩̩̥͙   ·  ‧̥   ·̊   ‧̥   ✿   ‧̥ °̩̥   ˚̩̩̥͙   °̩̥   ‧̥  ·̊   ˚̩̩̥͙  °̩̥   ‧̥   ✿   ·̊   ·̊   ‧̥   · ·̊   ‧̥ °̩̥   ✿   ˚̩̩̥͙   ·
-
+ 
 currently learning front-end development
  
 <div align="center", style="display: inline_block>
