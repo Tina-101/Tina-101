@@ -6,6 +6,7 @@ currently learning front-end development
 <div align="center", style="display: inline_block>
   <a href="https://github.com/Tina-101">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tina-101&show_icons=true&theme=material-palenight&include_all_commits=true&count+private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tina-101&layout=compact&theme=material-palenight"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tina-101&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tina-101&count_private=true&include_all_commits=true&layout=compact&theme=material-palenight"/> -->
   
