@@ -7,7 +7,6 @@
   <a href="https://github.com/Tina-101">
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tina-101&show_icons=true&theme=tokyonight&include_all_commits=true&count+private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tina-101&layout=compact&theme=tokyonight"/>
   
 </div>
 
