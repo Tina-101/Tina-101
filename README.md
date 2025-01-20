@@ -27,6 +27,7 @@
 ##
 
 latest project: https://movie-picker-jet.vercel.app/
+portfolio: https://tina-101.netlify.app
 
 #
 
